@@ -1,0 +1,75 @@
+Benchmark with 1 threads and 100 commands:
+Average Latency: 4 ms
+CPU Time: 40.16 ms
+Memory Usage: 2316 KB
+
+Benchmark with 1 threads and 1000 commands:
+Average Latency: 20 ms
+CPU Time: 222.83 ms
+Memory Usage: 2316 KB
+
+Benchmark with 1 threads and 10000 commands:
+Average Latency: 60 ms
+CPU Time: 830.84 ms
+Memory Usage: 2316 KB
+
+Benchmark with 2 threads and 100 commands:
+Average Latency: 3 ms
+CPU Time: 884.52 ms
+Memory Usage: 2732 KB
+
+Benchmark with 2 threads and 1000 commands:
+Average Latency: 20 ms
+CPU Time: 1102.61 ms
+Memory Usage: 2780 KB
+
+Benchmark with 2 threads and 10000 commands:
+Average Latency: 76 ms
+CPU Time: 2182.69 ms
+Memory Usage: 2836 KB
+
+Benchmark with 4 threads and 100 commands:
+Average Latency: 10 ms
+CPU Time: 2340.10 ms
+Memory Usage: 3712 KB
+
+Benchmark with 4 threads and 1000 commands:
+Average Latency: 25 ms
+CPU Time: 2803.16 ms
+Memory Usage: 3744 KB
+
+Benchmark with 4 threads and 10000 commands:
+Average Latency: 116 ms
+CPU Time: 5407.41 ms
+Memory Usage: 3748 KB
+
+Benchmark with 8 threads and 100 commands:
+Average Latency: 23 ms
+CPU Time: 5779.96 ms
+Memory Usage: 4876 KB
+
+Benchmark with 8 threads and 1000 commands:
+Average Latency: 34 ms
+CPU Time: 6687.95 ms
+Memory Usage: 5720 KB
+
+Benchmark with 8 threads and 10000 commands:
+Average Latency: 210 ms
+CPU Time: 14500.06 ms
+Memory Usage: 5720 KB
+
+Benchmark with 16 threads and 100 commands:
+Average Latency: 37 ms
+CPU Time: 15346.95 ms
+Memory Usage: 8520 KB
+
+Benchmark with 16 threads and 1000 commands:
+Average Latency: 53 ms
+CPU Time: 17354.62 ms
+Memory Usage: 9904 KB
+
+Benchmark with 16 threads and 10000 commands:
+Average Latency: 316 ms
+CPU Time: 32181.63 ms
+Memory Usage: 9904 KB
+
